@@ -236,10 +236,6 @@ Contributions are welcome! To contribute to this project, please follow the guid
 
 **Please ensure that your contributions adhere to the project's coding standards and include appropriate documentation and tests.**
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - **[NLTK](https://www.nltk.org/):** For providing robust NLP tools.
